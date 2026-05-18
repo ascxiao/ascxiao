@@ -8,8 +8,12 @@ Building systems that are technically rigorous and visually compelling ✨
 
 ## 📊 By The Numbers
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ascxiao&show_icons=true&theme=github_light&hide_border=true&bg_color=transparent)](https://github.com/ascxiao)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ascxiao&layout=compact&theme=github_light&hide_border=true&bg_color=transparent)](https://github.com/ascxiao)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ascxiao&show_icons=true&theme=github_light&hide_border=true)](https://github.com/ascxiao)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ascxiao&layout=compact&theme=github_light&hide_border=true)](https://github.com/ascxiao)
+
+[![ascxiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=ascxiao&show_icons=true&theme=vue&hide_border=true)](https://github.com/ascxiao)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ascxiao&theme=vue&hide_border=true&layout=compact)](https://github.com/ascxiao)
 
 ---
 
