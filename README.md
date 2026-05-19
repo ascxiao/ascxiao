@@ -2,7 +2,7 @@
 
 **Full-Stack Developer • Digital Illustrator • Data Enthusiast**
 
-Building systems that are technically rigorous and visually compelling ✨
+Building systems that are helpful to me and possibly to others as well!✨
 
 ---
 
