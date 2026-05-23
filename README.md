@@ -55,13 +55,13 @@ Also deep diving into **Exploratory Data Analysis (EDA)** and data visualization
 ## 🎨 About Me
 
 **Design-First Thinking**
-Freelance digital illustrator creating modular game assets and character designs. Team member on *The Diver* (Pixel Jam alumni). I believe great code should look and feel as good as it functions.
+Freelance digital illustrator creating modular game assets and character designs. I believe great code should look and feel as good as it functions.
 
 **🤖 Automation Enthusiast**
 I build complex database synchronization and reporting workflows using n8n. Love finding creative solutions to repetitive problems.
 
 **📊 Data Explorer**
-Passionate about uncovering insights in macroeconomic datasets through EDA and creating compelling visualizations that tell a story.
+Passionate about uncovering insights in through EDA and creating compelling visualizations that tell a story.
 
 **🔗 Bridging the Gap**
 Whether it's connecting design with development, or automating tedious workflows, I'm drawn to projects that harmonize different disciplines.
