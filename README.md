@@ -83,7 +83,6 @@ Whether it's connecting design with development, or automating tedious workflows
 If you find my projects useful or inspiring, consider buying me a coffee:
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kaluroos)
-
 ---
 
 <div align="center">
