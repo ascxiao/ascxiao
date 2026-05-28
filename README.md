@@ -6,6 +6,7 @@ Building systems that are helpful to me and possibly to others as well!✨
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ascxiao&theme=tokyonight)
 
+
 ---
 
 ## 🔭 Currently Shipping
@@ -68,6 +69,7 @@ Passionate about uncovering insights in through EDA and creating compelling visu
 **🔗 Bridging the Gap**
 Whether it's connecting design with development, or automating tedious workflows, I'm drawn to projects that harmonize different disciplines.
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ascxiao&layout=compact&theme=tokyonight)
 ---
 
 ## 📫 Let's Connect
