@@ -4,6 +4,8 @@
 
 Building systems that are helpful to me and possibly to others as well!✨
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ascxiao&theme=tokyonight)
+
 ---
 
 ## 🔭 Currently Shipping
